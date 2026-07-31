@@ -34,7 +34,7 @@ $status->compares(LegacyStatus::Active); // true if values match
 composer require fab2s/enumerate
 ```
 
-**Requirements:** PHP 8.1+
+**Requirements:** PHP 8.2+
 
 ## Quick Start
 
